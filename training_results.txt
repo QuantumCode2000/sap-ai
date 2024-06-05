@@ -1,0 +1,400 @@
+Epoch 1/200:
+- Accuracy: 96.18%
+Epoch 2/200:
+- Accuracy: 95.13%
+Epoch 3/200:
+- Accuracy: 96.85%
+Epoch 4/200:
+- Accuracy: 95.24%
+Epoch 5/200:
+- Accuracy: 96.51%
+Epoch 6/200:
+- Accuracy: 95.63%
+Epoch 7/200:
+- Accuracy: 95.51%
+Epoch 8/200:
+- Accuracy: 96.40%
+Epoch 9/200:
+- Accuracy: 95.08%
+Epoch 10/200:
+- Accuracy: 95.71%
+Epoch 11/200:
+- Accuracy: 96.74%
+Epoch 12/200:
+- Accuracy: 96.47%
+Epoch 13/200:
+- Accuracy: 95.38%
+Epoch 14/200:
+- Accuracy: 95.38%
+Epoch 15/200:
+- Accuracy: 95.68%
+Epoch 16/200:
+- Accuracy: 95.05%
+Epoch 17/200:
+- Accuracy: 95.02%
+Epoch 18/200:
+- Accuracy: 96.55%
+Epoch 19/200:
+- Accuracy: 96.30%
+Epoch 20/200:
+- Accuracy: 96.33%
+Epoch 21/200:
+- Accuracy: 96.40%
+Epoch 22/200:
+- Accuracy: 96.83%
+Epoch 23/200:
+- Accuracy: 96.91%
+Epoch 24/200:
+- Accuracy: 95.42%
+Epoch 25/200:
+- Accuracy: 95.50%
+Epoch 26/200:
+- Accuracy: 95.31%
+Epoch 27/200:
+- Accuracy: 96.21%
+Epoch 28/200:
+- Accuracy: 95.43%
+Epoch 29/200:
+- Accuracy: 95.45%
+Epoch 30/200:
+- Accuracy: 95.19%
+Epoch 31/200:
+- Accuracy: 95.70%
+Epoch 32/200:
+- Accuracy: 96.60%
+Epoch 33/200:
+- Accuracy: 96.12%
+Epoch 34/200:
+- Accuracy: 96.38%
+Epoch 35/200:
+- Accuracy: 95.81%
+Epoch 36/200:
+- Accuracy: 95.60%
+Epoch 37/200:
+- Accuracy: 95.95%
+Epoch 38/200:
+- Accuracy: 95.43%
+Epoch 39/200:
+- Accuracy: 96.26%
+Epoch 40/200:
+- Accuracy: 96.64%
+Epoch 41/200:
+- Accuracy: 96.95%
+Epoch 42/200:
+- Accuracy: 96.12%
+Epoch 43/200:
+- Accuracy: 96.16%
+Epoch 44/200:
+- Accuracy: 95.09%
+Epoch 45/200:
+- Accuracy: 96.64%
+Epoch 46/200:
+- Accuracy: 95.65%
+Epoch 47/200:
+- Accuracy: 96.77%
+Epoch 48/200:
+- Accuracy: 96.64%
+Epoch 49/200:
+- Accuracy: 95.36%
+Epoch 50/200:
+- Accuracy: 96.64%
+Epoch 51/200:
+- Accuracy: 95.34%
+Epoch 52/200:
+- Accuracy: 95.07%
+Epoch 53/200:
+- Accuracy: 95.64%
+Epoch 54/200:
+- Accuracy: 96.53%
+Epoch 55/200:
+- Accuracy: 96.56%
+Epoch 56/200:
+- Accuracy: 95.98%
+Epoch 57/200:
+- Accuracy: 96.82%
+Epoch 58/200:
+- Accuracy: 95.77%
+Epoch 59/200:
+- Accuracy: 96.60%
+Epoch 60/200:
+- Accuracy: 96.82%
+Epoch 61/200:
+- Accuracy: 95.03%
+Epoch 62/200:
+- Accuracy: 96.42%
+Epoch 63/200:
+- Accuracy: 96.49%
+Epoch 64/200:
+- Accuracy: 96.79%
+Epoch 65/200:
+- Accuracy: 96.05%
+Epoch 66/200:
+- Accuracy: 95.49%
+Epoch 67/200:
+- Accuracy: 96.28%
+Epoch 68/200:
+- Accuracy: 95.31%
+Epoch 69/200:
+- Accuracy: 96.12%
+Epoch 70/200:
+- Accuracy: 96.37%
+Epoch 71/200:
+- Accuracy: 96.72%
+Epoch 72/200:
+- Accuracy: 95.62%
+Epoch 73/200:
+- Accuracy: 95.13%
+Epoch 74/200:
+- Accuracy: 96.15%
+Epoch 75/200:
+- Accuracy: 95.20%
+Epoch 76/200:
+- Accuracy: 95.04%
+Epoch 77/200:
+- Accuracy: 96.25%
+Epoch 78/200:
+- Accuracy: 96.43%
+Epoch 79/200:
+- Accuracy: 95.84%
+Epoch 80/200:
+- Accuracy: 95.81%
+Epoch 81/200:
+- Accuracy: 96.58%
+Epoch 82/200:
+- Accuracy: 96.32%
+Epoch 83/200:
+- Accuracy: 95.10%
+Epoch 84/200:
+- Accuracy: 96.78%
+Epoch 85/200:
+- Accuracy: 95.67%
+Epoch 86/200:
+- Accuracy: 96.55%
+Epoch 87/200:
+- Accuracy: 96.90%
+Epoch 88/200:
+- Accuracy: 96.01%
+Epoch 89/200:
+- Accuracy: 96.33%
+Epoch 90/200:
+- Accuracy: 95.69%
+Epoch 91/200:
+- Accuracy: 95.01%
+Epoch 92/200:
+- Accuracy: 95.23%
+Epoch 93/200:
+- Accuracy: 96.51%
+Epoch 94/200:
+- Accuracy: 95.38%
+Epoch 95/200:
+- Accuracy: 95.46%
+Epoch 96/200:
+- Accuracy: 96.15%
+Epoch 97/200:
+- Accuracy: 96.97%
+Epoch 98/200:
+- Accuracy: 96.29%
+Epoch 99/200:
+- Accuracy: 96.56%
+Epoch 100/200:
+- Accuracy: 95.09%
+Epoch 101/200:
+- Accuracy: 95.16%
+Epoch 102/200:
+- Accuracy: 95.77%
+Epoch 103/200:
+- Accuracy: 95.92%
+Epoch 104/200:
+- Accuracy: 95.06%
+Epoch 105/200:
+- Accuracy: 96.13%
+Epoch 106/200:
+- Accuracy: 95.35%
+Epoch 107/200:
+- Accuracy: 95.28%
+Epoch 108/200:
+- Accuracy: 95.24%
+Epoch 109/200:
+- Accuracy: 97.00%
+Epoch 110/200:
+- Accuracy: 95.25%
+Epoch 111/200:
+- Accuracy: 96.03%
+Epoch 112/200:
+- Accuracy: 95.53%
+Epoch 113/200:
+- Accuracy: 96.10%
+Epoch 114/200:
+- Accuracy: 95.62%
+Epoch 115/200:
+- Accuracy: 96.87%
+Epoch 116/200:
+- Accuracy: 95.19%
+Epoch 117/200:
+- Accuracy: 95.69%
+Epoch 118/200:
+- Accuracy: 95.96%
+Epoch 119/200:
+- Accuracy: 95.45%
+Epoch 120/200:
+- Accuracy: 95.78%
+Epoch 121/200:
+- Accuracy: 95.51%
+Epoch 122/200:
+- Accuracy: 96.04%
+Epoch 123/200:
+- Accuracy: 96.19%
+Epoch 124/200:
+- Accuracy: 95.45%
+Epoch 125/200:
+- Accuracy: 96.50%
+Epoch 126/200:
+- Accuracy: 95.41%
+Epoch 127/200:
+- Accuracy: 95.52%
+Epoch 128/200:
+- Accuracy: 95.71%
+Epoch 129/200:
+- Accuracy: 95.08%
+Epoch 130/200:
+- Accuracy: 96.60%
+Epoch 131/200:
+- Accuracy: 95.29%
+Epoch 132/200:
+- Accuracy: 95.58%
+Epoch 133/200:
+- Accuracy: 96.91%
+Epoch 134/200:
+- Accuracy: 96.20%
+Epoch 135/200:
+- Accuracy: 95.71%
+Epoch 136/200:
+- Accuracy: 95.21%
+Epoch 137/200:
+- Accuracy: 96.03%
+Epoch 138/200:
+- Accuracy: 96.44%
+Epoch 139/200:
+- Accuracy: 95.36%
+Epoch 140/200:
+- Accuracy: 96.12%
+Epoch 141/200:
+- Accuracy: 96.79%
+Epoch 142/200:
+- Accuracy: 96.21%
+Epoch 143/200:
+- Accuracy: 95.18%
+Epoch 144/200:
+- Accuracy: 96.67%
+Epoch 145/200:
+- Accuracy: 95.06%
+Epoch 146/200:
+- Accuracy: 95.81%
+Epoch 147/200:
+- Accuracy: 96.48%
+Epoch 148/200:
+- Accuracy: 95.17%
+Epoch 149/200:
+- Accuracy: 95.15%
+Epoch 150/200:
+- Accuracy: 96.13%
+Epoch 151/200:
+- Accuracy: 96.55%
+Epoch 152/200:
+- Accuracy: 95.57%
+Epoch 153/200:
+- Accuracy: 95.75%
+Epoch 154/200:
+- Accuracy: 95.34%
+Epoch 155/200:
+- Accuracy: 96.82%
+Epoch 156/200:
+- Accuracy: 96.68%
+Epoch 157/200:
+- Accuracy: 96.23%
+Epoch 158/200:
+- Accuracy: 96.22%
+Epoch 159/200:
+- Accuracy: 96.09%
+Epoch 160/200:
+- Accuracy: 95.19%
+Epoch 161/200:
+- Accuracy: 96.96%
+Epoch 162/200:
+- Accuracy: 95.14%
+Epoch 163/200:
+- Accuracy: 95.10%
+Epoch 164/200:
+- Accuracy: 95.10%
+Epoch 165/200:
+- Accuracy: 96.69%
+Epoch 166/200:
+- Accuracy: 95.39%
+Epoch 167/200:
+- Accuracy: 95.93%
+Epoch 168/200:
+- Accuracy: 96.78%
+Epoch 169/200:
+- Accuracy: 96.29%
+Epoch 170/200:
+- Accuracy: 96.90%
+Epoch 171/200:
+- Accuracy: 95.83%
+Epoch 172/200:
+- Accuracy: 96.37%
+Epoch 173/200:
+- Accuracy: 95.51%
+Epoch 174/200:
+- Accuracy: 95.80%
+Epoch 175/200:
+- Accuracy: 96.28%
+Epoch 176/200:
+- Accuracy: 96.52%
+Epoch 177/200:
+- Accuracy: 96.27%
+Epoch 178/200:
+- Accuracy: 96.39%
+Epoch 179/200:
+- Accuracy: 96.41%
+Epoch 180/200:
+- Accuracy: 96.48%
+Epoch 181/200:
+- Accuracy: 95.56%
+Epoch 182/200:
+- Accuracy: 95.30%
+Epoch 183/200:
+- Accuracy: 96.39%
+Epoch 184/200:
+- Accuracy: 95.36%
+Epoch 185/200:
+- Accuracy: 95.99%
+Epoch 186/200:
+- Accuracy: 96.14%
+Epoch 187/200:
+- Accuracy: 95.79%
+Epoch 188/200:
+- Accuracy: 96.39%
+Epoch 189/200:
+- Accuracy: 95.63%
+Epoch 190/200:
+- Accuracy: 95.10%
+Epoch 191/200:
+- Accuracy: 95.77%
+Epoch 192/200:
+- Accuracy: 95.49%
+Epoch 193/200:
+- Accuracy: 96.82%
+Epoch 194/200:
+- Accuracy: 96.50%
+Epoch 195/200:
+- Accuracy: 96.23%
+Epoch 196/200:
+- Accuracy: 95.78%
+Epoch 197/200:
+- Accuracy: 96.69%
+Epoch 198/200:
+- Accuracy: 95.61%
+Epoch 199/200:
+- Accuracy: 95.25%
+Epoch 200/200:
+- Accuracy: 96.80%

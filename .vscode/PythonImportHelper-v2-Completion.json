@@ -1,0 +1,1318 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "mkstemp",
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "isExtraImport": true,
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline_to_binary",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "manpage",
+        "importPath": "docutils.writers",
+        "description": "docutils.writers",
+        "isExtraImport": true,
+        "detail": "docutils.writers",
+        "documentation": {}
+    },
+    {
+        "label": "Writer",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "Reader",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "TensorBoard",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDataGenerator",
+        "importPath": "tensorflow.keras.preprocessing.image",
+        "description": "tensorflow.keras.preprocessing.image",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing.image",
+        "documentation": {}
+    },
+    {
+        "label": "supervision",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "supervision",
+        "description": "supervision",
+        "detail": "supervision",
+        "documentation": {}
+    },
+    {
+        "label": "keras.preprocessing.image",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keras.preprocessing.image",
+        "description": "keras.preprocessing.image",
+        "detail": "keras.preprocessing.image",
+        "documentation": {}
+    },
+    {
+        "label": "training_result",
+        "importPath": "rn-project-1.data.training",
+        "description": "rn-project-1.data.training",
+        "isExtraImport": true,
+        "detail": "rn-project-1.data.training",
+        "documentation": {}
+    },
+    {
+        "label": "Roboflow",
+        "importPath": "roboflow",
+        "description": "roboflow",
+        "isExtraImport": true,
+        "detail": "roboflow",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.jp",
+        "description": ".venv.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass\n        tee_f.write(what)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info[0],\n        sys.version_info[1],\n        suffix,",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(\"-> %s\\\\%s[%s]=%r\" % (root_key_name, key_name, value_name, value))\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(\"-> DELETE %s\\\\%s[%s]\" % (root_key_name, key_name, value_name))\n        finally:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(\"Failed to unregister COM objects: %s\" % (why,))\n    try:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError('Path \"{}\" does not exist!'.format(location))\n    return location\ndef main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_postinstall",
+        "description": ".venv.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True\nexcept NameError:",
+        "detail": ".venv.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(\"*** Test script '%s' exited with %s\" % (script, result.returncode))\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": ".venv.Scripts.pywin32_testall",
+        "description": ".venv.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": ".venv.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2html",
+        "description": ".venv.Scripts.rst2html",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html', description=description)",
+        "detail": ".venv.Scripts.rst2html",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2html4",
+        "description": ".venv.Scripts.rst2html4",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html4', description=description)",
+        "detail": ".venv.Scripts.rst2html4",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2html5",
+        "description": ".venv.Scripts.rst2html5",
+        "peekOfCode": "description = (u'Generates HTML 5 documents from standalone '\n               u'reStructuredText sources '\n               + default_description)\npublish_cmdline(writer_name='html5', description=description)",
+        "detail": ".venv.Scripts.rst2html5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2latex",
+        "description": ".venv.Scripts.rst2latex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<http://docutils.sourceforge.net/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='latex', description=description)",
+        "detail": ".venv.Scripts.rst2latex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2man",
+        "description": ".venv.Scripts.rst2man",
+        "peekOfCode": "description = (\"Generates plain unix manual documents.  \" + default_description)\npublish_cmdline(writer=manpage.Writer(), description=description)",
+        "detail": ".venv.Scripts.rst2man",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2odt",
+        "description": ".venv.Scripts.rst2odt",
+        "peekOfCode": "description = ('Generates OpenDocument/OpenOffice/ODF documents from '\n               'standalone reStructuredText sources.  ' + default_description)\nwriter = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": ".venv.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2odt",
+        "description": ".venv.Scripts.rst2odt",
+        "peekOfCode": "writer = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": ".venv.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "reader",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2odt",
+        "description": ".venv.Scripts.rst2odt",
+        "peekOfCode": "reader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": ".venv.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2odt",
+        "description": ".venv.Scripts.rst2odt",
+        "peekOfCode": "output = publish_cmdline_to_binary(reader=reader, writer=writer,\n    description=description)",
+        "detail": ".venv.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "prepstyle",
+        "kind": 2,
+        "importPath": ".venv.Scripts.rst2odt_prepstyles",
+        "description": ".venv.Scripts.rst2odt_prepstyles",
+        "peekOfCode": "def prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):\n        for attr in el.attrib:\n            if attr.startswith(\"{%s}\" % NAMESPACES[\"fo\"]):\n                del el.attrib[attr]\n    tempname = mkstemp()",
+        "detail": ".venv.Scripts.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.rst2odt_prepstyles",
+        "description": ".venv.Scripts.rst2odt_prepstyles",
+        "peekOfCode": "def main():\n    args = sys.argv[1:]\n    if len(args) != 1:\n        print(__doc__, file=sys.stderr)\n        print(\"Usage: %s STYLE_FILE.odt\\n\" % sys.argv[0], file=sys.stderr)\n        sys.exit(1)\n    filename = args[0]\n    prepstyle(filename)\nif __name__ == '__main__':\n    main()",
+        "detail": ".venv.Scripts.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "NAMESPACES",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2odt_prepstyles",
+        "description": ".venv.Scripts.rst2odt_prepstyles",
+        "peekOfCode": "NAMESPACES = {\n    \"style\": \"urn:oasis:names:tc:opendocument:xmlns:style:1.0\",\n    \"fo\": \"urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0\"\n}\ndef prepstyle(filename):\n    zin = zipfile.ZipFile(filename)\n    styles = zin.read(\"styles.xml\")\n    root = etree.fromstring(styles)\n    for el in root.xpath(\"//style:page-layout-properties\",\n                         namespaces=NAMESPACES):",
+        "detail": ".venv.Scripts.rst2odt_prepstyles",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2pseudoxml",
+        "description": ".venv.Scripts.rst2pseudoxml",
+        "peekOfCode": "description = ('Generates pseudo-XML from standalone reStructuredText '\n               'sources (for testing purposes).  ' + default_description)\npublish_cmdline(description=description)",
+        "detail": ".venv.Scripts.rst2pseudoxml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2s5",
+        "description": ".venv.Scripts.rst2s5",
+        "peekOfCode": "description = ('Generates S5 (X)HTML slideshow documents from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='s5', description=description)",
+        "detail": ".venv.Scripts.rst2s5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2xetex",
+        "description": ".venv.Scripts.rst2xetex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources for compilation with the Unicode-aware TeX variants '\n               'XeLaTeX or LuaLaTeX. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<http://docutils.sourceforge.net/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='xetex', description=description)",
+        "detail": ".venv.Scripts.rst2xetex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rst2xml",
+        "description": ".venv.Scripts.rst2xml",
+        "peekOfCode": "description = ('Generates Docutils-native XML from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='xml', description=description)",
+        "detail": ".venv.Scripts.rst2xml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": ".venv.Scripts.rstpep2html",
+        "description": ".venv.Scripts.rstpep2html",
+        "peekOfCode": "description = ('Generates (X)HTML from reStructuredText-format PEP files.  '\n               + default_description)\npublish_cmdline(reader_name='pep', writer_name='pep_html',\n                description=description)",
+        "detail": ".venv.Scripts.rstpep2html",
+        "documentation": {}
+    },
+    {
+        "label": "training_results",
+        "kind": 2,
+        "importPath": "data.training.training",
+        "description": "data.training.training",
+        "peekOfCode": "def training_results(num_epochs, training_time_per_epoch, wait_time):\n    # Definición de variables\n    progress = 0  # Progreso actual del entrenamiento\n    # Simulación del entrenamiento\n    start_time = time.time()  # Registrar el tiempo de inicio del entrenamiento\n    with open(\"training_results.txt\", \"w\") as f:\n        for epoch in range(num_epochs):\n            # Imprimir información de la época\n            print(f\"\\n**Epoch {epoch + 1} of {num_epochs}**\")\n            # Simular entrenamiento dentro de la época",
+        "detail": "data.training.training",
+        "documentation": {}
+    },
+    {
+        "label": "entrenamiento",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "entrenamiento = '../data/dataset/entrenamiento'\nvalidacion = '../data/dataset/validacion'\nlistaEntrenamiento = os.listdir(entrenamiento) # Obtiene la lista de nombres de archivos en la carpeta de entrenamiento\nlistaValidacion = os.listdir(validacion) # Obtiene la lista de nombres de archivos en la carpeta de validación\nancho, alto = 224, 224\netiquetas = [] # Lista para almacenar las etiquetas de las imágenes\nfotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "validacion",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "validacion = '../data/dataset/validacion'\nlistaEntrenamiento = os.listdir(entrenamiento) # Obtiene la lista de nombres de archivos en la carpeta de entrenamiento\nlistaValidacion = os.listdir(validacion) # Obtiene la lista de nombres de archivos en la carpeta de validación\nancho, alto = 224, 224\netiquetas = [] # Lista para almacenar las etiquetas de las imágenes\nfotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "listaEntrenamiento",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "listaEntrenamiento = os.listdir(entrenamiento) # Obtiene la lista de nombres de archivos en la carpeta de entrenamiento\nlistaValidacion = os.listdir(validacion) # Obtiene la lista de nombres de archivos en la carpeta de validación\nancho, alto = 224, 224\netiquetas = [] # Lista para almacenar las etiquetas de las imágenes\nfotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "listaValidacion",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "listaValidacion = os.listdir(validacion) # Obtiene la lista de nombres de archivos en la carpeta de validación\nancho, alto = 224, 224\netiquetas = [] # Lista para almacenar las etiquetas de las imágenes\nfotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "etiquetas",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "etiquetas = [] # Lista para almacenar las etiquetas de las imágenes\nfotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "fotos",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "fotos = [] # Lista para almacenar las imágenes\ndatos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "datos_entrenamiento",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "datos_entrenamiento = [] # Lista para almacenar los datos de entrenamiento\ncon = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "con",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "con = 0\netiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):\n        etiquetas.append(con) # Agrega la etiqueta (con) a la lista de etiquetas",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "etiquetas2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "etiquetas2 = [] # Lista para almacenar las etiquetas de las imágenes de validación\nfotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):\n        etiquetas.append(con) # Agrega la etiqueta (con) a la lista de etiquetas\n        img = cv2.imread(nombre + \"/\" + nameFile, 0) # Lee la imagen en escala de grises",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "fotos2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "fotos2 = [] # Lista para almacenar las imágenes de validación\ndatos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):\n        etiquetas.append(con) # Agrega la etiqueta (con) a la lista de etiquetas\n        img = cv2.imread(nombre + \"/\" + nameFile, 0) # Lee la imagen en escala de grises\n        img = cv2.resize(img, (ancho, alto), interpolation=cv2.INTER_CUBIC) # Cambia el tamaño de la imagen",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "datos_validacion",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "datos_validacion = [] # Lista para almacenar los datos de validación\ncon2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):\n        etiquetas.append(con) # Agrega la etiqueta (con) a la lista de etiquetas\n        img = cv2.imread(nombre + \"/\" + nameFile, 0) # Lee la imagen en escala de grises\n        img = cv2.resize(img, (ancho, alto), interpolation=cv2.INTER_CUBIC) # Cambia el tamaño de la imagen\n        img = img.reshape(ancho, alto, 1) # Cambia la forma de la imagen",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "con2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "con2 = 0\n# Lectura de las imágenes de las carpetas de entrenamiento\nfor nameDir in listaEntrenamiento:\n    nombre = entrenamiento + \"/\" + nameDir\n    for nameFile in os.listdir(nombre):\n        etiquetas.append(con) # Agrega la etiqueta (con) a la lista de etiquetas\n        img = cv2.imread(nombre + \"/\" + nameFile, 0) # Lee la imagen en escala de grises\n        img = cv2.resize(img, (ancho, alto), interpolation=cv2.INTER_CUBIC) # Cambia el tamaño de la imagen\n        img = img.reshape(ancho, alto, 1) # Cambia la forma de la imagen\n        datos_entrenamiento.append([img, con]) # Agrega la imagen y su etiqueta a los datos de entrenamiento",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "fotos",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "fotos = np.array(fotos).astype('float') / 255\nprint(fotos.shape)\nfotos2 = np.array(fotos2).astype('float') / 255\nprint(fotos2.shape)\netiquetas = np.array(etiquetas)\netiquetas2 = np.array(etiquetas2)\n# Creación de un generador de imágenes para el aumento de datos\n# se generaran la misma cantidad de imagenes que tiene el dataset de entrenamiento por las 7 caracteristicas que se le aplicaran\nimgTrainGen = ImageDataGenerator(\n    rotation_range=50,",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "fotos2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "fotos2 = np.array(fotos2).astype('float') / 255\nprint(fotos2.shape)\netiquetas = np.array(etiquetas)\netiquetas2 = np.array(etiquetas2)\n# Creación de un generador de imágenes para el aumento de datos\n# se generaran la misma cantidad de imagenes que tiene el dataset de entrenamiento por las 7 caracteristicas que se le aplicaran\nimgTrainGen = ImageDataGenerator(\n    rotation_range=50,\n    width_shift_range=0.2,\n    height_shift_range=0.2,",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "etiquetas",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "etiquetas = np.array(etiquetas)\netiquetas2 = np.array(etiquetas2)\n# Creación de un generador de imágenes para el aumento de datos\n# se generaran la misma cantidad de imagenes que tiene el dataset de entrenamiento por las 7 caracteristicas que se le aplicaran\nimgTrainGen = ImageDataGenerator(\n    rotation_range=50,\n    width_shift_range=0.2,\n    height_shift_range=0.2,\n    shear_range=15,\n    zoom_range=[0.8, 1.2],",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "etiquetas2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "etiquetas2 = np.array(etiquetas2)\n# Creación de un generador de imágenes para el aumento de datos\n# se generaran la misma cantidad de imagenes que tiene el dataset de entrenamiento por las 7 caracteristicas que se le aplicaran\nimgTrainGen = ImageDataGenerator(\n    rotation_range=50,\n    width_shift_range=0.2,\n    height_shift_range=0.2,\n    shear_range=15,\n    zoom_range=[0.8, 1.2],\n    horizontal_flip=True,",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "imgTrainGen",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "imgTrainGen = ImageDataGenerator(\n    rotation_range=50,\n    width_shift_range=0.2,\n    height_shift_range=0.2,\n    shear_range=15,\n    zoom_range=[0.8, 1.2],\n    horizontal_flip=True,\n    vertical_flip=True,\n)\nimgTrainGen.fit(fotos)",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "imgTrain",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "imgTrain = imgTrainGen.flow(fotos, etiquetas, batch_size=32)\n# Creación de generadores de imágenes para el entrenamiento\n# Se crea un generador de imágenes para el entrenamiento utilizando el método 'flow' del objeto 'imgTrainGen'.\n# Se pasa 'fotos' (imágenes de entrenamiento) y 'etiquetas' (etiquetas correspondientes a las imágenes de entrenamiento) como entrada.\n# El parámetro 'batch_size' se establece en 10, lo que significa que se generarán lotes de 10 imágenes y etiquetas cada vez que se solicite.\n# imgTrainGen = imgTrainGen.flow(fotos, etiquetas, batch_size=10)\n# //////////////////////////////////////////////////////////////////////\n# Definición de modelos de redes neuronales convolucionales\n# Se define un modelo de red neuronal densa llamado 'ModeloDenso' utilizando Sequential de TensorFlow Keras.\n# Este modelo tiene una capa de aplanamiento (Flatten) como capa de entrada, seguida de dos capas densas con activación ReLU y una capa de salida con activación sigmoide.",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloDenso",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "ModeloDenso = tf.keras.Sequential([\n    tf.keras.layers.Flatten(input_shape=(ancho, alto, 1)), # Capa de aplanamiento para la entrada de imágenes\n    tf.keras.layers.Dense(128, activation='relu'), # Capa densa con 128 neuronas y activación ReLU\n    tf.keras.layers.Dense(128, activation='relu'), # Capa densa con 128 neuronas y activación ReLU\n    tf.keras.layers.Dense(1, activation='sigmoid') # Capa de salida con 1 neurona y activación sigmoide\n#     esta salida es la etiqueta que va identificar ......\n])\n# Se define un modelo de red neuronal convolucional llamado 'ModeloCNN' utilizando Sequential de TensorFlow Keras.\n# Este modelo tiene tres capas convolucionales seguidas de capas de max-pooling para reducción de dimensionalidad,\n# luego una capa de aplanamiento (Flatten) y dos capas densas con activación ReLU y sigmoide respectivamente.",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloCNN",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "ModeloCNN = tf.keras.Sequential([\n    tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(ancho, alto, 1)), # Capa convolucional con 32 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Conv2D(64, (3, 3), activation='relu'), # Capa convolucional con 64 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Conv2D(128, (3, 3), activation='relu'), # Capa convolucional con 128 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Flatten(), # Capa de aplanamiento para preparar la salida de las capas convolucionales para las capas densas\n    tf.keras.layers.Dense(256, activation='relu'), # Capa densa con 256 neuronas y activación ReLU\n    tf.keras.layers.Dense(1, activation='sigmoid') # Capa de salida con 1 neurona y activación sigmoide",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloCNN2",
+        "kind": 5,
+        "importPath": "models.entrenamiento_convolucional",
+        "description": "models.entrenamiento_convolucional",
+        "peekOfCode": "ModeloCNN2 = tf.keras.Sequential([\n    tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(ancho, alto, 1)), # Capa convolucional con 32 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Conv2D(64, (3, 3), activation='relu'), # Capa convolucional con 64 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Conv2D(128, (3, 3), activation='relu'), # Capa convolucional con 128 filtros y activación ReLU\n    tf.keras.layers.MaxPooling2D((2, 2)), # Capa de max-pooling para reducir la dimensionalidad\n    tf.keras.layers.Dropout(0.5), # Capa de dropout con tasa de dropout de 0.5 para prevenir el sobreajuste\n    tf.keras.layers.Flatten(), # Capa de aplanamiento para preparar la salida de las capas convolucionales para las capas densas\n    tf.keras.layers.Dense(256, activation='relu'), # Capa densa con 256 neuronas y activación ReLU",
+        "detail": "models.entrenamiento_convolucional",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloCNN",
+        "kind": 5,
+        "importPath": "models.prediccion",
+        "description": "models.prediccion",
+        "peekOfCode": "ModeloCNN = tf.keras.models.load_model('../models/modelo_convolucional.h5')",
+        "detail": "models.prediccion",
+        "documentation": {}
+    },
+    {
+        "label": "number_epochs",
+        "kind": 5,
+        "importPath": "models.train",
+        "description": "models.train",
+        "peekOfCode": "number_epochs = 200\nepochs = 3\nwh = 1\ntraining_result(\n    number_epochs,epochs,wh\n)",
+        "detail": "models.train",
+        "documentation": {}
+    },
+    {
+        "label": "epochs",
+        "kind": 5,
+        "importPath": "models.train",
+        "description": "models.train",
+        "peekOfCode": "epochs = 3\nwh = 1\ntraining_result(\n    number_epochs,epochs,wh\n)",
+        "detail": "models.train",
+        "documentation": {}
+    },
+    {
+        "label": "wh",
+        "kind": 5,
+        "importPath": "models.train",
+        "description": "models.train",
+        "peekOfCode": "wh = 1\ntraining_result(\n    number_epochs,epochs,wh\n)",
+        "detail": "models.train",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow_api_key",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "tensorflow_api_key = os.getenv(\"TENSORFLOW_API_KEY\")\nmodelo_mejor_acuracy = os.getenv(\"MODELO_MEJOR_ACURACY\")\n# print(tensorflow_api_key)\nrf = Roboflow(api_key=tensorflow_api_key)\nproject = rf.workspace().project(\"persona-bajo-la-lluvia\")\nmodel = project.version(1).model\n#\n#le damos la imagen para que haga la prediccion de las etiquetas\nresult = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "modelo_mejor_acuracy",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "modelo_mejor_acuracy = os.getenv(\"MODELO_MEJOR_ACURACY\")\n# print(tensorflow_api_key)\nrf = Roboflow(api_key=tensorflow_api_key)\nproject = rf.workspace().project(\"persona-bajo-la-lluvia\")\nmodel = project.version(1).model\n#\n#le damos la imagen para que haga la prediccion de las etiquetas\nresult = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#\nlabels = [item[\"class\"] for item in result[\"predictions\"]]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "rf",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "rf = Roboflow(api_key=tensorflow_api_key)\nproject = rf.workspace().project(\"persona-bajo-la-lluvia\")\nmodel = project.version(1).model\n#\n#le damos la imagen para que haga la prediccion de las etiquetas\nresult = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#\nlabels = [item[\"class\"] for item in result[\"predictions\"]]\nprint(\"caracteristicas que detecta el modelo:\")\nprint(labels)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "project",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "project = rf.workspace().project(\"persona-bajo-la-lluvia\")\nmodel = project.version(1).model\n#\n#le damos la imagen para que haga la prediccion de las etiquetas\nresult = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#\nlabels = [item[\"class\"] for item in result[\"predictions\"]]\nprint(\"caracteristicas que detecta el modelo:\")\nprint(labels)\n# print(result)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "model = project.version(1).model\n#\n#le damos la imagen para que haga la prediccion de las etiquetas\nresult = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#\nlabels = [item[\"class\"] for item in result[\"predictions\"]]\nprint(\"caracteristicas que detecta el modelo:\")\nprint(labels)\n# print(result)\n# para poder ver resaltado en la imagen lo que detecta el modelo",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "result = model.predict(\"./data/ag_sex1.png\", confidence=40, overlap=30).json()\n#\nlabels = [item[\"class\"] for item in result[\"predictions\"]]\nprint(\"caracteristicas que detecta el modelo:\")\nprint(labels)\n# print(result)\n# para poder ver resaltado en la imagen lo que detecta el modelo\ndetections = sv.Detections.from_roboflow(roboflow_result=result)\n# Crear instancias de los anotadores\n# label_annotator = sv.LabelAnnotator()  # Crear un anotador de etiquetas (Versión original)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "labels = [item[\"class\"] for item in result[\"predictions\"]]\nprint(\"caracteristicas que detecta el modelo:\")\nprint(labels)\n# print(result)\n# para poder ver resaltado en la imagen lo que detecta el modelo\ndetections = sv.Detections.from_roboflow(roboflow_result=result)\n# Crear instancias de los anotadores\n# label_annotator = sv.LabelAnnotator()  # Crear un anotador de etiquetas (Versión original)\nla = sv.LabelAnnotator()  # Crear un anotador de etiquetas\nbba = sv.BoxAnnotator()  # Crear un anotador de cajas delimitadoras",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "detections",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "detections = sv.Detections.from_roboflow(roboflow_result=result)\n# Crear instancias de los anotadores\n# label_annotator = sv.LabelAnnotator()  # Crear un anotador de etiquetas (Versión original)\nla = sv.LabelAnnotator()  # Crear un anotador de etiquetas\nbba = sv.BoxAnnotator()  # Crear un anotador de cajas delimitadoras\n# Leer la imagen desde el archivo \"./data/ag_sex1.png\"\nimage = cv2.imread(\"./data/ag_sex1.png\")\n# Anotar la imagen con cajas delimitadoras resaltadas\nannotated_image = bba.annotate(\n    scene=image, detections=detections)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "la",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "la = sv.LabelAnnotator()  # Crear un anotador de etiquetas\nbba = sv.BoxAnnotator()  # Crear un anotador de cajas delimitadoras\n# Leer la imagen desde el archivo \"./data/ag_sex1.png\"\nimage = cv2.imread(\"./data/ag_sex1.png\")\n# Anotar la imagen con cajas delimitadoras resaltadas\nannotated_image = bba.annotate(\n    scene=image, detections=detections)\n# Anotar la imagen con etiquetas resaltadas\nannotated_image = la.annotate(\n    scene=annotated_image, detections=detections, labels=labels)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "bba",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "bba = sv.BoxAnnotator()  # Crear un anotador de cajas delimitadoras\n# Leer la imagen desde el archivo \"./data/ag_sex1.png\"\nimage = cv2.imread(\"./data/ag_sex1.png\")\n# Anotar la imagen con cajas delimitadoras resaltadas\nannotated_image = bba.annotate(\n    scene=image, detections=detections)\n# Anotar la imagen con etiquetas resaltadas\nannotated_image = la.annotate(\n    scene=annotated_image, detections=detections, labels=labels)\n# Mostrar la imagen anotada",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "image = cv2.imread(\"./data/ag_sex1.png\")\n# Anotar la imagen con cajas delimitadoras resaltadas\nannotated_image = bba.annotate(\n    scene=image, detections=detections)\n# Anotar la imagen con etiquetas resaltadas\nannotated_image = la.annotate(\n    scene=annotated_image, detections=detections, labels=labels)\n# Mostrar la imagen anotada\nsv.plot_image(image=annotated_image, size=(16, 16))\nprint(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "annotated_image",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "annotated_image = bba.annotate(\n    scene=image, detections=detections)\n# Anotar la imagen con etiquetas resaltadas\nannotated_image = la.annotate(\n    scene=annotated_image, detections=detections, labels=labels)\n# Mostrar la imagen anotada\nsv.plot_image(image=annotated_image, size=(16, 16))\nprint(\nModeloCNN2.evaluate(X_test, y_test))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "annotated_image",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "annotated_image = la.annotate(\n    scene=annotated_image, detections=detections, labels=labels)\n# Mostrar la imagen anotada\nsv.plot_image(image=annotated_image, size=(16, 16))\nprint(\nModeloCNN2.evaluate(X_test, y_test))",
+        "detail": "main",
+        "documentation": {}
+    }
+]
